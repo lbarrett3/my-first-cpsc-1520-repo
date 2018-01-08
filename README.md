@@ -8,3 +8,6 @@ I have learnt how to
 - Commit changes to my repository
 - Publish my code to GitHub.com
 - Open my repository folder in Visual Studio Code
+- Create a good .gitignore file (https://gitignore.io)
+- Create a good .gitattributes file (https://gitattributes.io)
+- Commit my changes from within Visual Studio Code.
