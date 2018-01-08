@@ -7,3 +7,4 @@ I have learnt how to
 - Create a local repository
 - Commit changes to my repository
 - Publish my code to GitHub.com
+- Open my repository folder in Visual Studio Code
